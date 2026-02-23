@@ -2,9 +2,6 @@
 
 ### Data Engineer | ETL & Informatica | Oracle ERP Cloud | Power BI 
 
-Every dataset has a source. Every source has issues.  
-And every issue has a data-driven solution.
-
 ---
 
 ## 👩‍💻 About Me
