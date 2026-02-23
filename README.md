@@ -9,11 +9,15 @@ And every issue has a data-driven solution.
 
 ## 👩‍💻 About Me
 
-I’m a data professional with **5+ years of experience** delivering high-quality ETL and data engineering solutions. I hold a **Post Graduate Diploma in Business Analytics, Reporting Systems & Database Development (Canada)**.
+I’m a data professional with **5+ years of experience** delivering high-quality results across **ETL, Data Engineering, and Technical Support**, backed by a **Post Graduate Diploma in Business Analytics, Reporting Systems, and Database Development (Canada)**.
 
-I specialize in building and optimizing **Informatica PowerCenter** workflows and integrating data from **Oracle, flat files, XML, and enterprise systems** to support analytics and business reporting.
+I specialize in designing, optimizing, and supporting data workflows using **Informatica PowerCenter**, integrating datasets from **Oracle, flat files, and XML** to support both business and analytical requirements. I have strong experience analyzing trends, troubleshooting data issues, and continuously improving data processes to enhance **operational efficiency and data reliability**.
 
-I’ve supported **enterprise financial data integrations** in **Oracle ERP Cloud**, managing end-to-end accounting data flows through **ETL pipelines, Oracle Integration Cloud (OIC), and General Ledger (GL)** processing.
+Alongside development, I bring hands-on **production and technical support experience**, diagnosing and resolving data and application issues in live environments. I’ve worked closely with cross-functional teams to perform **root cause analysis**, manage incidents, and ensure minimal downtime while maintaining data accuracy and system stability.
+
+I have supported **enterprise financial data integration** within **Oracle ERP Cloud** environments, managing end-to-end accounting data flows from inbound source systems through **ETL transformations, Oracle Integration Cloud (OIC) pipelines, and General Ledger (GL) processing**. I actively supported critical finance processes including **Import Accounting Data, Create Accounting, and GL journal posting**, ensuring accurate and timely journal creation during daily and month-end close cycles.
+
+I’m proficient in building **reports and dashboards using Power BI and Excel**, certified in **Microsoft Azure Fundamentals**, and known for clear communication and a strong focus on delivering **data-driven solutions** that support both technical and business needs.
 
 ---
 
