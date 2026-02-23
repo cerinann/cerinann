@@ -20,27 +20,24 @@ I’ve supported **enterprise financial data integrations** in **Oracle ERP Clou
 ## 🛠️ Technical Skills I Bring to the Table
 
 ### 💻 Core Skills
-- ETL & Data Integration (Informatica PowerCenter)
-- Oracle, PostgreSQL, SQL Server
-- Advanced SQL & Data Validation
-- Data Modeling (Star / Snowflake)
-- Unix / Linux & Shell Scripting
-- Production Support & Incident Management (ITIL, ServiceNow)
-
----
+> - ETL & Data Integration (Informatica PowerCenter)
+> - Oracle, PostgreSQL, SQL Server
+> - Advanced SQL & Data Validation
+> - Data Modeling (Star / Snowflake)
+> - Unix / Linux & Shell Scripting
+> - Production Support & Incident Management (ITIL, ServiceNow)
+> - Enterprise Financial Data Processing (Oracle ERP Cloud)
 
 ### 📊 Reporting & Analytics
-- Power BI (Dashboards, KPIs)
-- Microsoft Excel (Pivot Tables, XLOOKUP, Reporting)
-- Trend Analysis & Data Reconciliation
-
----
+> - Power BI (Dashboards, KPIs)
+> - Microsoft Excel (Pivot Tables, XLOOKUP)
+> - Trend Analysis & Data Reconciliation
 
 ### ☁️ Cloud & Tools
-- Oracle ERP Cloud
-- Oracle Integration Cloud (OIC)
-- Microsoft Azure (AZ-900)
-- Git & Version Control
+> - Oracle ERP Cloud
+> - Oracle Integration Cloud (OIC)
+> - Microsoft Azure (AZ-900)
+> - Git & Version Control
 
 ---
 
